@@ -9,12 +9,19 @@
     color: #696969;
 } */
 
+#nav-down ul li a{
+  color: #df4b24;
+}
+#nav-down ul li a:hover{
+  border-bottom: 2px solid #df4b24;
+}
+
 .theam-bg-color{
     background-color: #b8422c;
 }
 
 .theam-btn{
-    width: 100px;
+    width: auto;
     background-color: transparent;
     color: #696969;
     border: 1px solid #696969;
@@ -22,7 +29,7 @@
     border-radius: 5px;
 }
 .theam-btn:hover{
-    width: 100px;
+    width: auto;
     background-color: #b8422c;
     color: #fff;
     border: none;
